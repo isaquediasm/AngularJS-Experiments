@@ -1,4 +1,4 @@
 AngularJS-Experiments
 =====================
 
->> Teste
+Some AngularJS Experiments for studying.
